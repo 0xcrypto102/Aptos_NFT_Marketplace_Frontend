@@ -6,7 +6,7 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAvmYUvuArUq23KmtjY8COJJVV7N6rquR0",
+  apiKey: "",
   authDomain: "vexpy-firebase.firebaseapp.com",
   projectId: "vexpy-firebase",
   storageBucket: "vexpy-firebase.appspot.com",
